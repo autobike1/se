@@ -11,7 +11,7 @@ end
 
 local data = {
 	["embeds"] = {{
-		["title"] = "감염게임 발견 바로가기!",
+		["title"] = "infection game here!",
 		["url"] = "https://roblox.com/games/" .. game.PlaceId,
 		["description"] = "**Game Name:** ".. name.Name.."\n**Players:** ".. #players.."/"..maxplayers.."\n**Game Id:** ".. game.PlaceId.."\n**Game Version:** ".. game.PlaceVersion.."\n**Job Id:** "..game.JobId,
 		["image"] = {
