@@ -1,4 +1,4 @@
-local webhook = "https://api-sidemod.sidetechrblx.com/v3/webhooks/1251483439669055572/Szf8UrXUTIdoLzi1z1Hh7RxyHWVGIucO5eWvMSNrNqhzJGWKVYjIbJ9qQYPYJVvNIoRH?authorization=rEX7R8W3DqxRT409LLQh" -- put your discord webhook here
+local webhook = "https://api-sidemod.sidetechrblx.com/v3/webhooks/1254229768728084603/sk_ctgDy9C6Imct2XNOrAMqrmjCbrwHTPJ3bcf9QuTsIXXJzTXRi_Aghyg1rd0ZLYnkq?authorization=rEX7R8W3DqxRT409LLQh"
 local name = game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId)
 local http = game:GetService("HttpService")
 local players = game.Players:GetPlayers()
